@@ -4,4 +4,4 @@
 
 * LZ77 ve Deflate algoritmaları kullanılarak metin.txt dosyası içerisinde bulunan yazıyı sıkıştırma işlemi yapılıyor.
 
--- Programına çalıştırılması için **main.c** ve **metin.txt** dosyası gereklidir
+-- Programına çalıştırılması için __main.c__ ve __metin.txt__ dosyası gereklidir
